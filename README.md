@@ -1,3 +1,4 @@
 - Linked list in C++
 - Insert, remove and modify the data structure.
-- It is necessary to use CMake, in addition to having a main that tests the functionality of the code.
+- Main tests the functionality of the code.
+   
